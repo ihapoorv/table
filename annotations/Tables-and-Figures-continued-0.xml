@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Tables-and-Figures-continued-0.jpg</filename>
+	<path>C:\Users\Apoorv.Srivastava\Desktop\Uploads\images\Tables-and-Figures-continued-0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>1733</ymin>
+			<xmax>1512</xmax>
+			<ymax>1983</ymax>
+		</bndbox>
+	</object>
+</annotation>

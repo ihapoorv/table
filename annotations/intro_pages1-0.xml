@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>intro_pages1-0.jpg</filename>
+	<path>C:\Users\Apoorv.Srivastava\Desktop\Uploads\images\intro_pages1-0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2200</width>
+		<height>1700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>333</ymin>
+			<xmax>2082</xmax>
+			<ymax>1267</ymax>
+		</bndbox>
+	</object>
+</annotation>
